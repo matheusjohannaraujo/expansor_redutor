@@ -1,4 +1,10 @@
-//Matheus Johann Araújo
+/*
+	Country: Brasil
+	State: Pernambuco
+	Developer: Matheus Johann Araújo
+	Date: 2018-06-01
+*/
+
 function expansor(){
     var min = arguments[0];
     var max = arguments[1];
@@ -39,7 +45,6 @@ function expansor(){
     })();
 }
 
-console.log("Desenvolvedor: Matheus Johann Araújo");
-x = [-1.953125, -0.05078125, 1.171875, 0.06640625];
-y = expansor(-500, 300, 2, x, -1, true);
-console.log(y);
+//expansor(intervaloMin, intervaloMax, multiplicador, vetorComOsNumerosParaReducao, passosDeReducao, exibeReducao);
+var resultado = expansor(-500, 300, 2, [-1.953125, -0.05078125, 1.171875, 0.06640625], -1, true);
+console.log(resultado);
