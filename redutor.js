@@ -2,7 +2,7 @@
 	Country: Brasil
 	State: Pernambuco
 	Developer: Matheus Johann Araújo
-	Date: 2018-06-01
+	Date: 2018-05-30
 */
 
 function redutor(){
