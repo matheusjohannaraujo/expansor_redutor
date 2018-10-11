@@ -1,8 +1,9 @@
 /*
 	Country: Brasil
 	State: Pernambuco
-	Developer: Matheus Johann AraÃºjo
+	Developer: Matheus Johann Araújo
 	Date: 2018-05-30
+    Bitbucket: https://bitbucket.org/matheusjohannaraujo/expansor_redutor/
 */
 
 function expansor(){
