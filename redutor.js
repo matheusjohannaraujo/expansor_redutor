@@ -1,11 +1,3 @@
-/*
-	Country: Brasil
-	State: Pernambuco
-	Developer: Matheus Johann Araújo
-	Date: 2018-05-30
-    Bitbucket: https://bitbucket.org/matheusjohannaraujo/expansor_redutor/
-*/
-
 function redutor(){
     var min = arguments[0];
     var max = arguments[1];
